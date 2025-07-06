@@ -1,10 +1,58 @@
-<h1 align="center">Hi 👋 I'm Leonardo Braga</h1>
-<h3 align="center">Data Science and Artificial intelligence - Brazil</h3>
+<h1 align="center">👋 Hi, I'm Leonardo Braga</h1>
+<h3 align="center">Data Science & Artificial Intelligence | Brasília, Brazil</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leonardo-borges1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-borges1" height="30" width="40" /></a>
+<p align="center">
+  <b>5th semester Data Science & AI undergraduate at UNB</b>.<br>
+  Currently a Data Migration intern working with SQL, SAP, and Pentaho.<br>
+  Passionate about data engineering, machine learning, automation, and visualization.<br>
+  Also a fan of movies, anime, manhwas, and books!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Featured Projects
+
+- **[Dashboard: Live Births in Brazil 2023](https://dashboard-nascidos-vivos-2023.streamlit.app)**
+  - [GitHub Repository](https://github.com/Leo-bsb/Dashboard_Nascidos_Vivos_2023)
+  - Interactive dashboard analyzing live births in Brazil using Streamlit.
+ 
+  - **[Live Births Report (PDF)](https://github.com/Leo-bsb/Relatorio_Nascidos_Vivos/blob/main/novo_relat%C3%B3rio_nascidos_vivos.pdf)**
+  - In-depth analytical report on live births in Brazil.
+
+- **[Dashboard: Police Occurrences](https://dashboard-ocorrencias.streamlit.app)**
+  - [GitHub Repository](https://github.com/Leo-bsb/Scripts_Python)
+  - Data visualization and analysis of police occurrences.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo-bsb&show_icons=true&theme=radical" alt="Leo-bsb stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-bsb&layout=compact&theme=radical" alt="Leo-bsb languages"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-borges1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
