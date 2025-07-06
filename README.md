@@ -2,7 +2,7 @@
 <h3 align="center">Data Science & Artificial Intelligence | Brasília, Brazil</h3>
 
 <p align="center">
-  <b>5th semester Data Science & AI undergraduate at UNB</b>.<br>
+  <b>6th semester Data Science & AI undergraduate at UNB</b>.<br>
   Currently a Data Migration intern working with SQL, SAP, and Pentaho.<br>
   Passionate about data engineering, machine learning, automation, and visualization.<br>
   Also a fan of movies, anime, manhwas, and books!
