@@ -4,7 +4,7 @@
 <p align="center">
   <b>6th semester Data Science & AI undergraduate at IESB</b>.<br>
   Currently a Data Migration intern working with SQL, SAP, and Pentaho.<br>
-  Passionate about data engineering, machine learning, automation, and visualization.<br>
+  Passionate about data science and data engineering, machine learning, statistic, and visualization.<br>
   Also a fan of movies, anime, manhwas, and books!
 </p>
 
