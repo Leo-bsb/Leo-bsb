@@ -1,4 +1,4 @@
-<h1 align="center">H 👋 I'm Leonardo Braga</h1>
+<h1 align="center">Hi 👋 I'm Leonardo Braga</h1>
 <h3 align="center">Data Science and Artificial intelligence - Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
