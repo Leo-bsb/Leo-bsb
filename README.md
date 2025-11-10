@@ -10,6 +10,26 @@
 
 ---
 
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" alt="polars" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+</p>
+
+**Languages:** Python • C • SQL  
+**Data Science:** Pandas • Polars • NumPy • Scikit-learn • PyTorch  
+**Visualization:** Streamlit • Plotly • Seaborn • Matplotlib • Power BI  
+**Tools:** Excel • SAP • Pentaho • Jupyter • Git
+
+---
+
+
 ### 🚀 Featured Projects
 
 
@@ -50,24 +70,6 @@
 - **[Algorithms and Data Structures](https://github.com/Leo-bsb/algoritmos_e_estrutura_de_dados)**  
   Implementation of classic algorithms and data structures in C  
   `C Language` `Algorithms` `Computer Science`
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_github_logo_rect_dark_name.svg" alt="polars" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-</p>
-
-**Languages:** Python • C • SQL  
-**Data Science:** Pandas • NumPy • Scikit-learn • PyTorch  
-**Visualization:** Streamlit • Plotly • Seaborn • Matplotlib • Power BI  
-**Tools:** Excel • SAP • Pentaho • Jupyter • Git
 
 ---
 
