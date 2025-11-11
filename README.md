@@ -39,6 +39,10 @@
   Hybrid recommendation engine using PyTorch and neural collaborative filtering  
   `Deep Learning` `PyTorch` `Recommendation Systems`
 
+- **[Intelligent Delivery Time Predictor](https://leo-bsb-delivery-time-predictor.hf.space/)**
+Explainable XGBoost regressor with a Gradio demo for fast, interpretable food-delivery time estimates
+`Machine Learning` `XGBoost` `Gradio Explainability` `Logistics Prediction`
+
 - **[PyGWalker Tutorial](https://colab.research.google.com/drive/1-jdGErU6WE54cFYh0ObvxhzX2ryqFMqD?usp=sharing)**  
   Interactive guide to exploratory data analysis with PyGWalker  
   `Tutorial` `EDA` `Data Visualization`
