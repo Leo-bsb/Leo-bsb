@@ -35,7 +35,7 @@
 
 #### 🤖 Machine Learning & Tutorials
 
-- **[Intelligent Book Recommendation System](https://colab.research.google.com/drive/1ObRPGZ2z7QCmVF2sYlpw2Sudfddbfry4?usp=sharing)**  
+- **[Intelligent Book Recommendation System](https://huggingface.co/spaces/leo-bsb/book-recomendation)**  
   Hybrid recommendation engine using PyTorch and neural collaborative filtering  
   `Deep Learning` `PyTorch` `Recommendation Systems`
 
