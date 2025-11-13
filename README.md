@@ -34,7 +34,7 @@
 
 #### 🍽️ AI for Food Industry
 
-* **[Food Review Reply AI](https://huggingface.co/spaces/leo-bsb/bot-for-restaurant-reviews)**
+* **[Food Review Reply with Generative AI](https://huggingface.co/spaces/leo-bsb/bot-for-restaurant-reviews)**
   AI-powered system for automatically generating empathetic, sentiment-aware responses to restaurant reviews in Brazilian Portuguese
   `NLP` `Sentiment Analysis` `Generative AI` `Customer Service Automation` `Google Gemini`
 
@@ -49,10 +49,6 @@
 
 
 #### 🤖 Machine Learning & Tutorials
-
-Claro, aqui está o trecho do seu README com os links dos artigos do Medium adicionados de forma integrada e organizada:
-
----
 
 * **[Intelligent Book Recommendation System](https://huggingface.co/spaces/leo-bsb/book-recomendation)**
   Hybrid recommendation engine using PyTorch and neural collaborative filtering
