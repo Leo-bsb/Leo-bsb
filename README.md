@@ -42,7 +42,7 @@
   Dynamic, style-customizable dish description generator tailored for food delivery apps, leveraging Google Gemini for fluent, appetizing texts in Brazilian Portuguese
   `Generative AI` `Prompt Engineering` `Polars` `Gradio` `Google Gemini`
 
-  * **[Intelligent Delivery Time Predictor](https://leo-bsb-delivery-time-predictor.hf.space/)**
+* **[Intelligent Delivery Time Predictor](https://leo-bsb-delivery-time-predictor.hf.space/)**
   Explainable XGBoost regressor with a Gradio demo for fast, interpretable food-delivery time estimates
   `Machine Learning` `XGBoost` `Gradio Explainability` `Logistics Prediction`
 
