@@ -63,6 +63,11 @@
 
 #### 📊 Dashboards & Data Visualization
 
+- **[Fast EDA — PyGWalker + Gradio + Polars](https://huggingface.co/spaces/leo-bsb/Fast_Eda)**
+  Lightweight web app for rapid, visual exploratory data analysis directly in the browser.
+  Upload your dataset and instantly generate interactive dashboards with PyGWalker and Polars — all through a clean Gradio interface.
+  `EDA` `Polars` `PyGWalker` `Gradio` `Data Visualization`
+
 - **[Brazilian Live Births Dashboard 2023](https://github.com/Leo-bsb/Dashboard_Nascidos_Vivos_2023)**  
   Healthcare data analysis from SINASC database  
   `Healthcare Analytics` `SINASC` `Data Visualization`
