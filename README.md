@@ -1,120 +1,143 @@
-<h1 align="center">👋 Hi, I'm Leonardo Braga</h1>
-<h3 align="center">Data Science & Artificial Intelligence Student | Brasília, Brazil</h3>
+# 👋 Hi, I'm Leonardo Braga
 
-<p align="center">
-  <b>6th semester Data Science & AI undergraduate at IESB</b><br>
-  Data Migration Intern | SQL • SAP • Pentaho<br>
-  Passionate about data engineering, machine learning, and visualization<br>
-  Also a fan of movies, anime, manhwas, and books! 📚🎬
-</p>
+**Data Science & AI Undergraduate | Generative AI & Data Engineering Intern**
+📍 Brasília, Brazil | [📧](mailto:leonardoborges6947@gmail.com) | [LinkedIn](https://www.linkedin.com/in/leonardo-borges1/)
+
+I build **production-ready AI and data engineering solutions**, from scalable LLM applications and retrieval-augmented generation (RAG) pipelines to robust ETL workflows with SAP and modern data stacks. I transform complex data challenges into efficient systems that drive business impact.
 
 ---
 
+## 🚀 Featured Projects
 
-### 🛠️ Tech Stack
+### 🔍 Legal Document Information Extraction System
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" alt="polars" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-</p>
+*LLM-powered PDF parsing • Streamlit dashboard • SQLite persistence • Batch processing*
 
-**Languages:** Python • C • SQL  
-**Data Science:** Pandas • Polars • NumPy • Scikit-learn • PyTorch  
-**Visualization:** Streamlit • Plotly • Seaborn • Matplotlib • Power BI  
-**Tools:** Excel • SAP • Pentaho • Jupyter • Git
+[![Live Demo](https://img.shields.io/badge/🤗-Live_Demo-blue)](https://huggingface.co/spaces/leo-bsb/legal-extraction-system)  
+
+`Python` `LLM` `Streamlit` `Polars` `SQLite` `PDF Processing`
+
+* Engineered a modular system for large-scale legal PDF parsing and structured data extraction
+* Optimized batch processing to handle documents up to 200MB with minimal memory footprint
+* Implemented schema validation and auto-repair mechanisms to ensure data integrity
+* Delivered a production-ready UI enabling real-time analytics and manual review workflows
 
 ---
 
+### 🤖 SAP Data Services AI Assistant
 
-### 🚀 Featured Projects
+*RAG pipeline • Domain-specific intent detection • Streamlit UI*
 
-#### 🍽️ AI for Food Industry
+[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-green)](https://sap-bot.streamlit.app/)  
 
-* **[Food Review Reply with Generative AI](https://huggingface.co/spaces/leo-bsb/bot-for-restaurant-reviews)**
-  AI-powered system for automatically generating empathetic, sentiment-aware responses to restaurant reviews in Brazilian Portuguese
-  `NLP` `Sentiment Analysis` `Generative AI` `Customer Service Automation` `Google Gemini`
+`RAG` `Sentence-Transformers` `Streamlit` `FAISS` `SAP BODS`
 
-* **[Generative AI for Persuasive Dish Descriptions](https://huggingface.co/spaces/leo-bsb/generative-ai-for-persuasive-dish-descriptions)**
-  Dynamic, style-customizable dish description generator tailored for food delivery apps, leveraging Google Gemini for fluent, appetizing texts in Brazilian Portuguese
-  `Generative AI` `Prompt Engineering` `Polars` `Gradio` `Google Gemini`
-
-* **[Intelligent Delivery Time Predictor](https://leo-bsb-delivery-time-predictor.hf.space/)**
-  Explainable XGBoost regressor with a Gradio demo for fast, interpretable food-delivery time estimates
-  `Machine Learning` `XGBoost` `Gradio Explainability` `Logistics Prediction`
-
-
-
-#### 🤖 Machine Learning & Tutorials
-
-* **[Intelligent Book Recommendation System](https://huggingface.co/spaces/leo-bsb/book-recomendation)**
-  Hybrid recommendation engine using PyTorch and neural collaborative filtering
-  `Deep Learning` `PyTorch` `Recommendation Systems`
-  📖 [Article on Medium - Portuguese](https://medium.com/@leonardoborges6947/como-constru%C3%AD-um-sistema-de-recomenda%C3%A7%C3%A3o-h%C3%ADbrido-que-descobre-livros-escondidos-combinando-eada76bc8d58)
-
-* **[PyGWalker Tutorial](https://colab.research.google.com/drive/1-jdGErU6WE54cFYh0ObvxhzX2ryqFMqD?usp=sharing)**
-  Interactive guide to exploratory data analysis with PyGWalker
-  `Tutorial` `EDA` `Data Visualization`
-  📖 [Article on Medium - Portuguese](https://medium.com/@leonardoborges6947/cansado-de-escrever-50-linhas-de-matplotlib-fa%C3%A7a-eda-com-1-linha-usando-pygwalker-4f8548813b2a)
-
-
-#### 📊 Dashboards & Data Visualization
-
-- **[Fast EDA — PyGWalker + Gradio + Polars](https://huggingface.co/spaces/leo-bsb/Fast_Eda)**
-  Lightweight web app for rapid, visual exploratory data analysis directly in the browser.
-  Upload your dataset and instantly generate interactive dashboards with PyGWalker and Polars — all through a clean Gradio interface.
-  `EDA` `Polars` `PyGWalker` `Gradio` `Data Visualization`
-
-- **[Brazilian Live Births Dashboard 2023](https://github.com/Leo-bsb/Dashboard_Nascidos_Vivos_2023)**  
-  Healthcare data analysis from SINASC database  
-  `Healthcare Analytics` `SINASC` `Data Visualization`
-
-- **[GDP and Crime Correlation Dashboard](https://dash-pib-ocorrencias.streamlit.app/)**  
-  Cross-analysis exploring relationships between economic indicators and crime rates  
-  `Python` `Streamlit` `Data Analysis`
-
-- **[Criminal Occurrences Dashboard - RIDE-DF](https://dashboard-ocorrencias.streamlit.app)**  
-  Interactive visualization of crime data across Federal District municipalities (2022-2024)  
-  `Streamlit` `Plotly` `Public Safety`
-
-#### 📄 Reports & Analysis
-
-- **[Live Births Report 2023 (PDF)](https://github.com/Leo-bsb/Relatorio_Nascidos_Vivos)**  
-  Comprehensive analytical report on Brazilian live births with statistical insights  
-  `Statistical Analysis` `Healthcare`
-
-
-#### 💻 Academic & Fundamentals
-
-- **[Algorithms and Data Structures](https://github.com/Leo-bsb/algoritmos_e_estrutura_de_dados)**  
-  Implementation of classic algorithms and data structures in C  
-  `C Language` `Algorithms` `Computer Science`
+* Developed a custom chatbot tailored for SAP BODS users, overcoming generic LLM limitations
+* Integrated semantic search and intent classification for precise, domain-aware support
+* Enabled fluent, natural Portuguese interactions aligned with SAP ecosystem documentation
 
 ---
 
-### 📊 GitHub Stats
+### ⏱️ Intelligent Delivery Time Predictor
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo-bsb&show_icons=true&theme=radical" alt="Leo-bsb stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-bsb&layout=compact&theme=radical" alt="Leo-bsb languages"/>
-</p>
+*XGBoost • Model Explainability • Streamlit UI*
+
+[![Live Demo](https://img.shields.io/badge/🎯-Live_Demo-orange)](https://leo-bsb-delivery-time-predictor.hf.space/)  
+
+`XGBoost` `SHAP` `Streamlit` `Scikit-learn` `Pandas`
+
+* Delivered highly accurate delivery time predictions using structured business features
+* Applied SHAP for interpretable models, providing actionable insights to stakeholders
+* Built a user-friendly interface for real-time predictions and scenario analysis
 
 ---
 
-### 🌐 Connect with Me
+### 🍽️ Generative AI for Food Industry
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-borges1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:leonardoborges6947@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+*Sentiment Analysis • Text Generation • Multi-modal Applications*
 
-<p align="center">
-  <i>💡 Open to collaborations and opportunities in data science and engineering!</i>
-</p>
+[![Food Bot](https://img.shields.io/badge/🍽️-Food_Review_Bot-yellow)](https://huggingface.co/spaces/leo-bsb/bot-for-restaurant-reviews)  
+[![Dish Generator](https://img.shields.io/badge/📝-Dish_Generator-lightgrey)](https://huggingface.co/spaces/leo-bsb/generative-ai-for-persuasive-dish-descriptions)  
+
+`Gemini AI` `Polars` `Sentiment Analysis` `Text Generation`
+
+* Built a sentiment-aware Food Review Reply Bot generating empathetic responses to customer feedback
+* Created a persuasive Dish Description Generator to boost engagement in food delivery apps
+* Designed efficient data pipelines with Polars for scalable multi-modal applications
+
+---
+
+### 📚 Intelligent Book Recommendation System
+
+*Hybrid Neural Network • Collaborative Filtering • Deep Learning*
+
+[![Live Demo](https://img.shields.io/badge/📖-Live_Demo-purple)](https://huggingface.co/spaces/leo-bsb/book-recomendation)  
+
+`PyTorch` `Neural Networks` `Collaborative Filtering` `Hugging Face`
+
+* Designed a hybrid recommendation engine combining deep learning with collaborative filtering
+* Developed scalable workflows in PyTorch for personalized book suggestions
+* Documented the entire process through a comprehensive Medium tutorial
+
+---
+
+### 📊 Fast EDA & Data Visualization Tools
+
+*Interactive Dashboards • Healthcare Analytics • Automated Reporting*
+
+[![Fast EDA](https://img.shields.io/badge/⚡-Fast_EDA_Demo-red)](https://huggingface.co/spaces/leo-bsb/Fast_Eda)  
+[![Healthcare](https://img.shields.io/badge/🏥-Live_Births_Dashboard-blue)](https://dashboard-nascidos-vivos-2023.streamlit.app/)  
+
+`PyGWalker` `Polars` `Streamlit` `Plotly` `Gradio`
+
+* Delivered instant exploratory data analysis with an interactive Fast EDA dashboard
+* Developed a visual analytics platform for Brazilian live births (SINASC 2023 data)
+* Authored an interactive tutorial for PyGWalker enabling fast, code-light EDA
+
+---
+
+## 🛠️ Technical Stack
+
+**Programming & Query Languages:**
+`Python` `SQL` `C` `Bash`
+
+**AI & Machine Learning:**
+`PyTorch` `Transformers` `Hugging Face` `XGBoost` `Scikit-learn` `LLMs` `RAG` `Embeddings`
+
+**Data Engineering & Processing:**
+`SAP Data Services (BODS)` `Pentaho` `Polars` `Pandas` `SQL Databases` `ETL/ELT`
+
+**Data Visualization & Apps:**
+`Streamlit` `Gradio` `Plotly` `PyGWalker` `Power BI`
+
+**Tools & Platforms:**
+`Git` `Docker` `Linux` `Hugging Face Spaces` `Google Colab`
+
+**Certifications:**
+`Oracle Generative AI Professional`
+`Oracle Data Science Professional`
+
+---
+
+## 💼 Professional Experience
+
+**Data Migration Intern** — First Decision *(Apr 2025 – Present)*
+
+* Delivered complex ETL migrations for enterprise clients, handling end-to-end data workflows
+* Developed and optimized pipelines leveraging SAP BODS, Pentaho, and SQL databases
+* Gained hands-on experience managing data migrations for large-scale market players
+
+---
+
+## 📚 Education
+
+**B.Sc. Data Science & Artificial Intelligence** — IESB *(2023–2026)*
+*Core Courses:* Machine Learning, Data Mining, Big Data, Statistical Modeling, Deep Learning
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/leonardo-borges1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Leo-bsb)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)](https://huggingface.co/leo-bsb)
